@@ -26,10 +26,10 @@ SUPPORT_GRP = getenv("SUPPORT_GRP", "GOJO_NOBITA_II")
 UPDATE_CHNL = getenv("UPDATE_CHNL", "NOBITA_MUSIC_SUPPORT")
 
 #### ❖ ──────⊱◈◈◈⊰────── ❖
-OWNER_USERNAME = getenv("OWNER_USERNAME", "HLO_PAPA")
+OWNER_USERNAME = getenv("OWNER_USERNAME", "II_YOUR_GOJO_ll")
 
 #### ❖ ──────⊱◈◈◈⊰────── ❖
-BOT_USERNAME = getenv("BOT_USERNAME", None)
+BOT_USERNAME = getenv("BOT_USERNAME", "GROUP_CHATs49_BOT")
 
 
 #### ❖ ──────⊱◈◈◈⊰────── ❖
