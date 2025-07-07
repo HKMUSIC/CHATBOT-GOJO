@@ -5,13 +5,13 @@ from dotenv import load_dotenv
 load_dotenv()
 
 #### ❖ ──────⊱◈◈◈⊰────── ❖
-API_ID = int(getenv("API_ID", "6435225"))
+API_ID = int(getenv("API_ID", "22855793"))
 
 #### ❖ ──────⊱◈◈◈⊰────── ❖
-API_HASH = getenv("API_HASH", "4e984ea35f854762dcde906dce426c2d")
+API_HASH = getenv("API_HASH", "4e1b6f9bb8598ba19e44cffb4fbf38c1")
 
 #### ❖ ──────⊱◈◈◈⊰────── ❖
-BOT_TOKEN = getenv("BOT_TOKEN", None)
+BOT_TOKEN = getenv("BOT_TOKEN","7703294816:AAGo3KLIWDLJroLtIsPvquSOvoTOuCu2hh4")
 
 #### ❖ ──────⊱◈◈◈⊰────── ❖
 OWNER_ID = int(getenv("OWNER_ID", "6922271843"))
