@@ -58,9 +58,9 @@ STICKER = [
 #### ❖ ──────⊱◈◈◈⊰────── ❖
 
 IMG = [
-"https://graph.org/file/eaa3a2602e43844a488a5.jpg",
-"https://graph.org/file/b129e98b6e5c4db81c15f.jpg",
-"https://graph.org/file/3ccb86d7d62e8ee0a2e8b.jpg",
+"https://files.catbox.moe/4uf7r9.jpg",
+"https://files.catbox.moe/3saw6n.jpg",
+"https://files.catbox.moe/3kd6oq.jpg",
 "https://graph.org/file/df11d8257613418142063.jpg",
 "https://graph.org/file/9e23720fedc47259b6195.jpg",
 "https://graph.org/file/826485f2d7db6f09db8ed.jpg",
