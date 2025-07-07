@@ -53,10 +53,10 @@ async def help(client: LOCOPILOT, m: Message):
         )
   #############
 
-@dev.on_message(filters.command("repo") & ~filters.bot)
+@dev.on_message(filters.command("help") & ~filters.bot)
 async def repo(_, m: Message):
     await m.reply_text(
-        text= f"""❖ ʜᴇʏ ʙᴀʙʏ, ɴɪᴄᴇ ᴛᴏ ᴍᴇᴇᴛ ʏᴏᴜ ♥︎\n\n⬤ ɪ ᴀᴍ {BOT_NAME},  ᴀɪ ʙᴀsᴇ ᴄʜᴀᴛʙᴏᴛ.\n\n❖ ɪғ ʏᴏᴜ ᴡᴀɴᴛ {BOT_NAME} ʙᴏᴛ ʀᴇᴘᴏ, ᴛʜᴇɴ ᴄʟɪᴄᴋ ᴏɴ ᴛʜᴇ ʀᴇᴘᴏ ʙᴜᴛᴛᴏɴ ᴛᴏ ɢᴇᴛ ᴍʏ sᴏᴜʀᴄᴇ ᴄᴏᴅᴇ.""",
+        text= f"""❖ ʜᴇʏ ʙᴀʙʏ, ɴɪᴄᴇ ᴛᴏ ᴍᴇᴇᴛ ʏᴏᴜ ♥︎\n\n⬤ ɪ ᴀᴍ {BOT_NAME},  ᴀɪ ʙᴀsᴇ ᴄʜᴀᴛʙᴏᴛ.\n\n❖ ɪғ ʏᴏᴜ ᴡᴀɴᴛ ᴀɴʏ ᴛʏᴘᴇ ᴏғ ʜᴇʟᴘ ᴄᴏɴᴛᴀᴄᴛ ᴍʏ sᴡᴇᴇᴛ ᴏᴡɴᴇʀ @II_YOUR_GOJO_ll ᴏʀ ᴊᴏɪɴ ᴜᴘᴅᴀᴛᴇ ᴄʜᴀɴɴᴇʟ ᴀsʟᴏ @NOBITA_MUSIC_SUPPORT ▪.""",
         reply_markup=InlineKeyboardMarkup(CLOSE_BTN),
         disable_web_page_preview=True,
     )
