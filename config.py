@@ -14,7 +14,7 @@ API_HASH = getenv("API_HASH", "4e1b6f9bb8598ba19e44cffb4fbf38c1")
 BOT_TOKEN = getenv("BOT_TOKEN","7703294816:AAGo3KLIWDLJroLtIsPvquSOvoTOuCu2hh4")
 
 #### ❖ ──────⊱◈◈◈⊰────── ❖
-OWNER_ID = int(getenv("OWNER_ID", "6922271843"))
+OWNER_ID = int(getenv("OWNER_ID", "7553434931"))
 
 #### ❖ ──────⊱◈◈◈⊰────── ❖
 MONGO_URL = getenv("MONGO_URL", "mongodb+srv://Hkbots:Hk2558@hkbots.wqsuua0.mongodb.net/?retryWrites=true&w=majority&appName=HKBOTS")
@@ -23,13 +23,13 @@ MONGO_URL = getenv("MONGO_URL", "mongodb+srv://Hkbots:Hk2558@hkbots.wqsuua0.mong
 SUPPORT_GRP = getenv("SUPPORT_GRP", "GOJO_NOBITA_II")
 
 #### ❖ ──────⊱◈◈◈⊰────── ❖
-UPDATE_CHNL = getenv("UPDATE_CHNL", "NOBITA_MUSIC_SUPPORT")
+UPDATE_CHNL = getenv("UPDATE_CHNL", "GOJO_SUPPORT_GROUP_II")
 
 #### ❖ ──────⊱◈◈◈⊰────── ❖
 OWNER_USERNAME = getenv("OWNER_USERNAME", "II_YOUR_GOJO_ll")
 
 #### ❖ ──────⊱◈◈◈⊰────── ❖
-BOT_USERNAME = getenv("BOT_USERNAME", "GROUP_CHATs49_BOT")
+BOT_USERNAME = getenv("BOT_USERNAME", "lovely_shizuka_chat_bot")
 
 
 #### ❖ ──────⊱◈◈◈⊰────── ❖
